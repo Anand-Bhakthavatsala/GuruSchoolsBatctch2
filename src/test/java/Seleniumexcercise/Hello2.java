@@ -11,6 +11,7 @@ public class Hello2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello");
+		System.out.println("Welcome to java");
 		logger.trace("We've just greeted the user!");
         logger.debug("We've just greeted the user!");
         logger.info("We've just greeted the user!");
