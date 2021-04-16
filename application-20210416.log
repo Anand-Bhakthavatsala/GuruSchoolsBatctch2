@@ -1,0 +1,5 @@
+2021-04-16 17:03:46.732 [main] DEBUG Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:03:46.736 [main] INFO  Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:03:46.736 [main] WARN  Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:03:46.736 [main] ERROR Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:03:46.737 [main] FATAL Seleniumexcercise.Hello2 - We've just greeted the user!
