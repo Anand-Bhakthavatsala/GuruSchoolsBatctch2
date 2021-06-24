@@ -18,7 +18,7 @@ public class Hello2 {
         logger.warn("We've just greeted the user!");
         logger.error("We've just greeted the user!");
         logger.fatal("We've just greeted the user!");
-
+        System.out.println("Added a new line");
 	}
 
 }

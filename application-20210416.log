@@ -8,3 +8,8 @@
 2021-04-16 17:15:18.476 [main] WARN  Seleniumexcercise.Hello2 - We've just greeted the user!
 2021-04-16 17:15:18.476 [main] ERROR Seleniumexcercise.Hello2 - We've just greeted the user!
 2021-04-16 17:15:18.476 [main] FATAL Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:21:41.450 [main] DEBUG Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:21:41.454 [main] INFO  Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:21:41.454 [main] WARN  Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:21:41.454 [main] ERROR Seleniumexcercise.Hello2 - We've just greeted the user!
+2021-04-16 17:21:41.455 [main] FATAL Seleniumexcercise.Hello2 - We've just greeted the user!
